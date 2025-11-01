@@ -34,7 +34,7 @@ We collaboratively:
 - Designed the **UI/UX in Figma**, focusing on accessibility and simplicity.  
 - Defined the **user journey** for both drivers and administrators.  
 - Created an **interactive prototype** demonstrating the full parking booking process.
-- 
+  
 ---
 
 ## Figma Prototype
